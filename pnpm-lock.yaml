@@ -12,8 +12,8 @@ importers:
         specifier: ^1.0.0
         version: 1.1.3(react@19.2.0)
       '@rasenganjs/netlify':
-        specifier: 1.0.0-beta.3
-        version: 1.0.0-beta.3(rasengan@1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(vite@7.2.4(jiti@2.6.1)(lightningcss@1.30.2)))
+        specifier: 1.0.0-beta.4
+        version: 1.0.0-beta.4(rasengan@1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(vite@7.2.4(jiti@2.6.1)(lightningcss@1.30.2)))
       '@rasenganjs/serve':
         specifier: ^1.0.0
         version: 1.1.0(rasengan@1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(vite@7.2.4(jiti@2.6.1)(lightningcss@1.30.2)))
@@ -324,8 +324,8 @@ packages:
     peerDependencies:
       react: ^19.0.0
 
-  '@rasenganjs/netlify@1.0.0-beta.3':
-    resolution: {integrity: sha512-OES79fDqOODV9/AUsjFoWaFQaHO2OR1sHlB9FS76xkkGitPcyu8aIk9JoZZdpbWWhF7FYE4Dron9uu6Ihl1irw==}
+  '@rasenganjs/netlify@1.0.0-beta.4':
+    resolution: {integrity: sha512-ZM0PXf6OtBR592Br919zCBSq5RjGlAWeDb6oXGVl2IV/hcxfAMmBElFcmFDPhS0hk+K+/39PECX9PhYWcC4M+A==}
     peerDependencies:
       rasengan: ^1.2.0-beta.1
 
@@ -1754,7 +1754,7 @@ snapshots:
     dependencies:
       react: 19.2.0
 
-  '@rasenganjs/netlify@1.0.0-beta.3(rasengan@1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(vite@7.2.4(jiti@2.6.1)(lightningcss@1.30.2)))':
+  '@rasenganjs/netlify@1.0.0-beta.4(rasengan@1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(vite@7.2.4(jiti@2.6.1)(lightningcss@1.30.2)))':
     dependencies:
       execa: 8.0.1
       rasengan: 1.1.3(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(vite@7.2.4(jiti@2.6.1)(lightningcss@1.30.2))
